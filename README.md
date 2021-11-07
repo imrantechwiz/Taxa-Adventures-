@@ -4,6 +4,9 @@
 ### Live Link: 
 https://imrantechwiz.github.io/Taxa-Adventures-/
 
+### Path
+##### Book a trip --> Signin Page --> New to Taxa Adventures(click this) --> Signup Page
+
 ### Some Glimpses
 ![image](https://user-images.githubusercontent.com/56226186/140653769-583c865f-a402-4f0c-a02b-142950e06337.png)
 
